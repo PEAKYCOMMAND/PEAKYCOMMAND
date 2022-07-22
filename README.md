@@ -1,2 +1,2 @@
-CD /
-Ls
+de=$(dialog --stdout inputbox PEAKY);
+echo $de
