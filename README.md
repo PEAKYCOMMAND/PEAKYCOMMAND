@@ -1,2 +1,2 @@
 
-de=$(diálog --stdout ' PEAKY?' 0 0 )
+de=$(dialog --stdout ' PEAKY?' 0 0 )
